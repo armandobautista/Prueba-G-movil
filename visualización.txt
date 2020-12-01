@@ -1,0 +1,5 @@
+#####################   Visualizacíon de datos:
+
+Vinculo para visualación del informe:
+
+    https://app.powerbi.com/reportEmbed?reportId=be0cad9b-3b8f-4967-873c-b9c88eec6f78&autoAuth=true&ctid=5044e4a8-d564-410a-880c-e5660372ad30&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXBhYXMtMS1zY3VzLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9 
